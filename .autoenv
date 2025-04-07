@@ -1,0 +1,4 @@
+#!/bin/bash
+# Automatically activate the virtual environment when entering this directory
+source nemo-asr-venv/bin/activate
+echo "Activated nemo-asr-venv virtual environment." 
